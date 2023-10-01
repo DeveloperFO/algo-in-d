@@ -1,2 +1,1 @@
-# trie-cpp
-Trie Key Store in C++
+# Algorithms in D lang
