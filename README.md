@@ -11,6 +11,18 @@ This repository contains implementations of various algorithms in the D programm
 - [x] **Insertion Sort**: [Link to Insertion Sort](insertion_sort.d)
   - A simple sorting algorithm that builds the final sorted array one item at a time by repeatedly taking the next unsorted element and inserting it into its correct position in the sorted part of the array.
 
+- [x] **Quick Sort**: [Link to Quick Sort](quick_sort.d)
+  - A fast sorting algorithm that uses a divide-and-conquer approach by selecting a "pivot" element and partitioning the other elements into two sub-arrays.
+
+- [x] **Selection Sort**: [Link to Selection Sort](selection_sort.d)
+  - A simple sorting algorithm that repeatedly selects the minimum (or maximum) element from the unsorted part of the array and puts it in its correct position in the sorted part.
+
+- [x] **Connected Components using Breadth-First Search (BFS)**: [Link to BFS](bfs_cc.d)
+  - An algorithm to find the connected components of an undirected graph using Breadth-First Search (BFS).
+
+- [x] **Connected Components using Depth-First Search (DFS)**: [Link to DFS](dfs_cc.d)
+  - An algorithm to find the connected components of an undirected graph using Depth-First Search (DFS).
+
 - [x] **Depth-First Search (DFS)**: [Link to DFS](dfs.d)
   - An algorithm for traversing or searching tree or graph data structures, starting from the root (or an arbitrary node) and exploring as far as possible along each branch before backtracking.
 
